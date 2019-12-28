@@ -4,6 +4,8 @@ This arduino project is inspired by the "Arduino Projects Book" project 9 by Sco
 
 # Getting Started
   
-
+  **Prerequisites**:
+  
+  **Hardware:**
   
   
