@@ -13,5 +13,11 @@ This arduino project is inspired by the "Arduino Projects Book" project 9 by Sco
   - Breadboard
   - Jumper Cables
   - Motor within 1.5-3.0 Volts and 4200-5700 RPM
+  - 9-Volt Battery
+  - Battery Snap
+  - Diode 1N4007
+  - 10 KILOHM Resistor
+  - Mosfet Transistor
+  - Tactile Switch
   
   
