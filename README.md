@@ -8,4 +8,10 @@ This arduino project is inspired by the "Arduino Projects Book" project 9 by Sco
   
   **Hardware:**
   
+  - Arduino Uno
+  - USB type B
+  - Breadboard
+  - Jumper Cables
+  - Motor within 1.5-3.0 Volts and 4200-5700 RPM
+  
   
