@@ -20,4 +20,4 @@ This arduino project is inspired by the "Arduino Projects Book" project 9 by Sco
   - Mosfet Transistor
   - Tactile Switch
   
-  
+  **Software:**
