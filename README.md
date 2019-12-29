@@ -20,7 +20,7 @@ This arduino project is inspired by the "Arduino Projects Book" project 9 by Sco
   - Mosfet Transistor
   - Tactile Switch
   
-
+<img src="Project images/Resistor-Chart.png 
  **Software:**
  
  - [Arduino API Downloads](https://www.arduino.cc/en/main/software)
