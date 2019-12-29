@@ -16,9 +16,9 @@ This arduino project is inspired by the "Arduino Projects Book" project 9 by Sco
   - 9-Volt Battery
   - Battery Snap
   - Diode 1N4007
-  - 10 KILOHM Resistor
   - Mosfet Transistor
   - Tactile Switch
+  - 10 KILOHM Resistor  
   
 <img src="Project images/Resistor-Chart.png">
 
