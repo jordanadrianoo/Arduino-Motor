@@ -53,5 +53,4 @@ After downloading the [Source Code](Motor.ino) and Schematics is built, connect 
 
  - [Arduino](https://www.arduino.cc/)
  - [Arduino Uno](https://store.arduino.cc/usa/arduino-starter-kit)
- - [Music Note Wavelengths](https://pages.mtu.edu/~suits/notefreqs.html)
-
+ 
