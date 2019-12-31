@@ -31,6 +31,10 @@ This arduino project is inspired by the "Arduino Projects Book" project 9 by Sco
 
 # Arduino Schematics
 
+**Abstract Schematics**
+
 <img src="Project images/Arduino Blueprints.jpg" width="700" height="500">
+
+**Implimented Schematics**
 
 <img src="Project images/Arduino Schematics.jpg" width="700" height="400">
