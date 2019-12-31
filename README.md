@@ -45,7 +45,7 @@ It is important to note that a motor can allow electricity to flow in either dir
 
 # uploading to the Arduino
 
-After downloading the [Source Code](Motor.ino) and Schematics is built, connect the Arduino to the computer using the UBS type-B cord. Open the source code within the Arduino API and hit uplaod in the top left corner. 
+After downloading the [Source Code](Motor.ino) and Schematics is built, connect the Arduino to the computer using the UBS type-B cord. Open the source code within the Arduino API and hit upload in the top left corner. 
 
 <img src="Project images/Upload .JPG" width="300">
 
