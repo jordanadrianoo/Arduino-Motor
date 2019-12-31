@@ -42,3 +42,10 @@ This arduino project is inspired by the "Arduino Projects Book" project 9 by Sco
 # Back Voltage 
 
 It is important to note that a motor can allow electricity to flow in either directions. If electricity is passed in the wrong direction it can damage resistors, circuits, and the motor itself. To prevent this occurrence, this project implements a gate pin and polarized diode. The gate pin stops flow of electricity until we decide to let it flow. With electricity from the Arduino, we allow the 9-volt battery's current to flow into the polorized diode. In addition, the polarized diode only allows currents to flow in a single direction. Both countermeasures prevents backflow from the motor.
+
+# Sources and References
+
+ - [Arduino](https://www.arduino.cc/)
+ - [Arduino Uno](https://store.arduino.cc/usa/arduino-starter-kit)
+ - [Music Note Wavelengths](https://pages.mtu.edu/~suits/notefreqs.html)
+
